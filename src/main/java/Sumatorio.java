@@ -28,6 +28,7 @@ public class Sumatorio {
             suma += s1[i];
         }
         // Este es el de la izquierda
+        // y yo el de la derecha
     }
 
 }
