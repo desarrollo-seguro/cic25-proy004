@@ -29,8 +29,8 @@ public class Sumatorio {
             suma += s1[i];
         }
         // Este es el de la izquierda
-        // y yo el de la derecha
-        // Esto es para molestar
+        // y yo de la derecha
+        // No me quedo con ninguno de los dos
     }
 
 }
