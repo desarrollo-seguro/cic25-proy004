@@ -22,6 +22,7 @@ public class Sumatorio {
 
         int b[] = new int[] { 1, 2, 3, 4, 5, 6, 7}; 
 
+        // Lo que viene a continuación es sumar otra vez decrementando
 
         suma = 0;
         for (int i= s1.length -1 ; i >= 0; i--) {
